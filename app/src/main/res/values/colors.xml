@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <color name="colorPrimary">#ff6464</color>
+  <color name="colorPrimaryDark">#9c2d2d</color>
+  <color name="link">#164289</color>
+  <color name="linkdark">#1c1d3c</color>
+  <color name="secondaryColor" >#ffffff</color>
+  <color name="colorAccent">#3a3a3a</color>
+
+  <color name="black_overlay">#66000000</color>
+  <color name="insta_start">#e6683c</color>
+  <color name="insta_end">#f60429</color>
+  <color name="white">#ffffff</color>
+  <color name="blue">#286090</color>
+  <color name="paste">#d43f3a</color>
+  <color name="progress">#e42548</color>
+  <color name="darkColor1">#0b0b0b</color>
+</resources>
